@@ -43,5 +43,4 @@ Two simple condition :
     .....
 
 
-   ## More details : [Market Plugin](https://community.mybb.com/thread-239042.html)
-
+## More details : [Market Plugin](https://community.mybb.com/thread-239042.html)
